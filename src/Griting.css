@@ -1,0 +1,43 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  span {
+    display: block;
+  }
+
+
+  .Apps {
+    display: flex;
+    position: absolute;
+    margin: 20px;
+    padding: 10px;
+    background-color: rgba(229, 255, 0, 0.897);
+    margin-left: 30%;
+    border-radius: 3px;
+    border: 2px solid;
+
+    
+  }
+  .Note{
+    border: 2px solid;
+    background-color: chartreuse;
+    margin: 30px;
+    border-radius: 5px;
+  }
+  #Button_section{
+    /* margin-left: 20px; */
+    padding: 30px;
+    background-color: red;
+  }
+ button{
+    margin: 5px;
+    width: 70px;
+    background-color: blue;
+  }
